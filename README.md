@@ -4,6 +4,10 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/c00b98b506899308e1e6/maintainability)](https://codeclimate.com/github/Rediies/frontend-project-44/maintainability)
 
-#Brain-Even:
+# Brain-Even:
 
 https://asciinema.org/a/hmN7v7aflcdzqA7nhQbwYKHM8
+
+# Brain-Calc
+
+https://asciinema.org/a/fVy258NeTLTQXKDDLaYRtVjsf
